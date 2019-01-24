@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "分享",
+    "usingComponents": {
+        "i-modal": "../../../static/iview/modal/index",
+        "i-toast": "../../../static/iview/toast/index",
+        "i-message": "../../../static/iview/message/index"
+    }
+
+}

@@ -1,0 +1,75 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/myAppointment/main",
+        "pages/appointment/main",
+        "pages/myOrder/main",
+        "pages/mall/main",
+        "pages/mallShareRebate/main",
+        "pages/mallGoodsDetail/main",
+        "pages/mallCollect/main",
+        "pages/mallFootmark/main",
+        "pages/mallGoodsList/main",
+        "pages/mallList/main",
+        "pages/mallTag/main",
+        "pages/mallClose/main",
+        "pages/test/main",
+        "pages/appointDetail/main",
+        "pages/myReport/main",
+        "pages/reportDetail/main",
+        "pages/selectDate/main",
+        "pages/orderDetail/main",
+        "pages/orderClose/main",
+        "pages/chooseAdd/main",
+        "pages/confirmOrder/main",
+        "pages/packageList/main",
+        "pages/packageDetail/main",
+        "pages/share/main",
+        "pages/userCenter/main",
+        "pages/healthCash/main",
+        "pages/goodsList/main",
+        "pages/personInfo/main",
+        "pages/payResult/main",
+        "pages/packageListCash/main",
+        "pages/map/main",
+        "pages/webviewPage/main",
+        "pages/mallCoupon/main"
+    ],
+    "permission": {
+        "scope.userLocation": {
+            "desc": "你的位置信息将用于小程序位置接口的效果展示"
+        }
+    },
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": " ",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "color": "#9b9b9b",
+        "selectedColor": "#9b9b9b",
+        "borderStyle": "white",
+        "backgroundColor": "#f8f9fb",
+        "list": [
+            {
+                "text": "首页",
+                "pagePath": "pages/index/main",
+                "iconPath": "tabBarImage/tab1Normal.png",
+                "selectedIconPath": "tabBarImage/tab1Selected.png"
+            },
+            {
+                "text": "商城",
+                "pagePath": "pages/mall/main",
+                "iconPath": "tabBarImage/tab3Normal.png",
+                "selectedIconPath": "tabBarImage/tab3Selected.png"
+            },
+            {
+                "text": "我的",
+                "pagePath": "pages/userCenter/main",
+                "iconPath": "tabBarImage/tab2Normal.png",
+                "selectedIconPath": "tabBarImage/tab2Selected.png"
+            }
+        ]
+    }
+}

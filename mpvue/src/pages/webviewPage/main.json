@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText": "健康档案",
+    "usingComponents": {
+        "i-modal": "../../../static/iview/modal/index",
+        "i-toast": "../../../static/iview/toast/index",
+        "i-message": "../../../static/iview/message/index",
+        "i-collapse": "../../../static/iview/collapse/index",
+        "i-collapse-item": "../../../static/iview/collapse-item/index"
+    }
+
+}
