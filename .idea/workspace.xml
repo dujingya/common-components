@@ -109,10 +109,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2082" />
-    <option name="y" value="156" />
-    <option name="width" value="1809" />
-    <option name="height" value="933" />
+    <option name="x" value="36" />
+    <option name="y" value="23" />
+    <option name="width" value="1384" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,6 +133,11 @@
               <item name="common-components" type="b2602c69:ProjectViewProjectNode" />
               <item name="common-components" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-components" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548309115445</updated>
       <workItem from="1548309117647" duration="880000" />
-      <workItem from="1572430602943" duration="262000" />
+      <workItem from="1572430602943" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="dujingya">
       <created>1548309845856</created>
@@ -190,15 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548309845856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dujingya">
+      <created>1572430890239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572430890239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1142000" />
+    <option name="totallyTimeSpent" value="1177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2082" y="156" width="1809" height="933" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
