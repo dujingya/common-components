@@ -150,13 +150,15 @@
                             this.fontWeight = [2, 5, 8];
                             this.$ = function(id) { return typeof id == "string" ? document.getElementById(id) : id; };
                             this.canvas = this.$("canvas");
-                            if(this.canvas.getContext) {} else {
+                            if(this.canvas.getContext) {
+
+							} else {
                                 alert("您的浏览器不支持 canvas 标签");
                                 return;
                             }
                             this.cxt = this.canvas.getContext('2d');
                             this.cxt.lineJoin = "round"; //context.lineJoin - 指定两条线段的连接方式
-                            this.cxt.lineWidth = 5; //线条的宽度
+                            this.cxt.lineWidth = 2; //线条的宽度
                             this.iptClear = this.$("clear");
                             this.imgurl = this.$("imgurl"); //图片路径按钮
                             this.move = this.$("move");
@@ -201,8 +203,7 @@
                             /*鼠标移动事件*/
                             this.canvas['on' + t.MoveEvent] = function(e) {
                                 var touch = t.touch ? e.touches[0] : e;
-                                if(t.lock) //t.lock为true则执行
-                                {
+                                if(t.lock) { //t.lock为true则执行
                                     // 获取放大后的偏移量
                                     var l = $('canvas').css('transform').length;
                                     var top = parseFloat($('canvas').css('transform').substring(7,l-1).split(', ')[0]);
