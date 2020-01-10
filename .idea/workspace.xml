@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3647b5-bea2-48d0-9a85-25e868f53049" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/js数据类型判断/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js数据类型判断/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="0c3647b5-bea2-48d0-9a85-25e868f53049" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -188,7 +186,7 @@
       <workItem from="1575016990458" duration="617000" />
       <workItem from="1575168458351" duration="2420000" />
       <workItem from="1578460935981" duration="3080000" />
-      <workItem from="1578641661711" duration="89000" />
+      <workItem from="1578641661711" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="dujingya">
       <created>1548309845856</created>
@@ -215,11 +213,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7523000" />
+    <option name="totallyTimeSpent" value="7683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1679" y="100" width="1384" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32795304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
