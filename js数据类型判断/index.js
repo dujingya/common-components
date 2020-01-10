@@ -8,3 +8,8 @@ var type = function(data) {
         .toLowerCase()
     return dataType
 }
+// 使用方式如下
+type('a') // string
+type(1) // number
+type(window) // window
+type(document.querySelector('h1')) // element
