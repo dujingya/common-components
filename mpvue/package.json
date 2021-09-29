@@ -20,7 +20,7 @@
     "eslint": "^5.7.0",
     "eslint-plugin-standard": "^4.0.0",
     "fs": "0.0.1-security",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "moment": "^2.22.2",
     "mp-weui": "^1.0.4",
     "mpvue": "^1.0.11",
